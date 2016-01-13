@@ -14,3 +14,8 @@ if(a === b) {
 /*
     todo: null vs undefined
 */
+
+
+/* 
+    todo: hoisting example, maybe this should go in scope examples?
+*/

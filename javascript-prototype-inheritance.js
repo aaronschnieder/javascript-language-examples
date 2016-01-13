@@ -133,7 +133,7 @@ for(var i =0; i < 10; i++) {
     notice that each instance of betterChild does not have its own logStuff method and takes up no memory!
     notice that each instance of betterChild takes up only 12 bytes of memory!
     notice the object's prototype takes up 16 bytes of memory
-    notice that all 10 instances of BaseObject take up only 120 bytes of memory, 560 bytes less than objects from BaseObject!
+    notice that all 10 instances of BaseObject take up only 120 bytes of memory, 960 bytes less than objects from BaseObject!
 */
 
 // try to call the doPrivateStuff method on the first instance of betterChild
